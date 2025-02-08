@@ -1,7 +1,7 @@
 {
   "name": "node-docker-app",
   "version": "1.0.0",
-  "description": "A simple Node.js app with Docker",
+  "description": "Hello world",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
